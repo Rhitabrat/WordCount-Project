@@ -1,7 +1,7 @@
-# WordCount-Project
+# **WordCount-Project**
 A simple word counting website.
 
-# **Django commands**
+# Commands
 
 ## Installing Django
 ```pip3 install django==2.1.7```
